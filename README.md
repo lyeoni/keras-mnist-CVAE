@@ -27,19 +27,6 @@ Conditional Variational AutoEncoder on the MNIST data set using the keras API
 <img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z1_8.png" width="600">
 <img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z1_9.png" width="600">
 
-- Learned MNIST manifold (2-D latent space): change z sample on the y-axis
-
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_0.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_1.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_2.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_3.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_4.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_5.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_6.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_7.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_8.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_9.png" width="600">
-
 ## Reference
 1. Learning Structured Output Representation using Deep Conditional Generative Models: 
 https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models
