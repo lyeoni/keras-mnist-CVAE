@@ -38,7 +38,7 @@ Conditional Variational AutoEncoder on the MNIST data set using the keras API
 <img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_6.png" width="600">
 <img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_7.png" width="600">
 <img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_8.png" width="600">
-<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_9.png" width="600">h
+<img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z2_9.png" width="600">
 
 ## Reference
 1. Learning Structured Output Representation using Deep Conditional Generative Models: 
