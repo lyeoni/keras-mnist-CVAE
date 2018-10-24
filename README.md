@@ -28,5 +28,5 @@ Conditional Variational AutoEncoder on the MNIST data set using the keras API
 <img src="https://github.com/lyeoni/keras-mnist-CVAE/blob/master/samples/change_z1_9.png" width="600">
 
 ## Reference
-1. Learning Structured Output Representation using Deep Conditional Generative Models: 
+1. Learning Structured Output Representation using Deep Conditional Generative Models (paper): 
 https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models
